@@ -71,7 +71,7 @@
 		
 			background-size: cover;
 		}
-		div:hover content{
+		div:active content{
 			display: block;
 		}
 		content{
