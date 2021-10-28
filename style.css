@@ -77,7 +77,7 @@
 		content{
             display: none;
 		}
-		div:active a{
+		div:her a{
 			display: block;
 			width: 110px;
 		}
