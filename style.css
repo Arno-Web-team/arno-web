@@ -56,7 +56,7 @@
             display: inline;
 
 		}
-		div:hover{
+		div:active{
 	    background-color: #302D2D;
 		height: 886px;	
 		width: 300px;
