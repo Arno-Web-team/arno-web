@@ -1,4 +1,3 @@
-<style>
 		.navbar{
 		background-color: #302D2D;
 		height: 20px;	
@@ -81,10 +80,4 @@
 			display: block;
 			width: 110px;
 		}
-		video{
-			border: rgb(0, 0, 0);
-			left: 400px;
-			
-		}
 		
-    </style>
